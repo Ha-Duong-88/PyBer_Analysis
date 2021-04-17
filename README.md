@@ -9,7 +9,7 @@ This project used python script, Pandas library, Jupyter Notebook,  NumPy and Sc
 
 
 # Results
-The table of ride sharing data by city type shown below summarizes the average fare per ride and average fare by driver by city type.
+The table of ride-hailing data by city type shown below summarizes the average fare per ride and average fare per driver by city type.
 
 ![image](https://user-images.githubusercontent.com/80140082/115128328-e1a9ad80-9f91-11eb-87d0-fe078c97291f.png)
 
@@ -28,6 +28,8 @@ This analysis did not examine and compare any data about the distances in the ri
 1. Perform additional analyis on the distance covered per ride per city type
  give another dimension to the analysis and clarify even more the differences between city types.
 
-2. Additional Analysis 2
-Description of Approach. Analysing the weather conditions and the time during the day (day time fare? night time fare?) per ride might give even more dimensions to the analysis and clarify in detail the differences between city types.
+2. Perform additional analysis on other data points that might have a causal relationship or correlation to the total number of rides and average fare per ride and per driver, such as weather condition and time of day.
+
+3. Conduct an experiment to increase the number of drivers in the suburban and rural areas
+
 
