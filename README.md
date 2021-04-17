@@ -12,9 +12,7 @@ This project used python script, Pandas library, Jupyter Notebook and matplotlib
 
 ![image](https://user-images.githubusercontent.com/80140082/115128328-e1a9ad80-9f91-11eb-87d0-fe078c97291f.png)
 
-
-![Challenge_Total_Fare_City_Type](https://user-images.githubusercontent.com/80140082/115127911-ffc1de80-9f8e-11eb-87ef-b3b68f36f861.png)
-
+![PyBer_fare_summary](https://user-images.githubusercontent.com/80140082/115128472-d2772f80-9f92-11eb-905c-8bba061dbcb1.png)
 
 
 
