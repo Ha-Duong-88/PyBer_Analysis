@@ -13,3 +13,4 @@ In this project used python script using Pandas library, Jupyter Notebook and ma
 # Results
 
 # Summary 
+![Challenge_Total_Fare_City_Type](https://user-images.githubusercontent.com/80140082/115127911-ffc1de80-9f8e-11eb-87ef-b3b68f36f861.png)
