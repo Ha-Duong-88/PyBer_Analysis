@@ -11,7 +11,6 @@ This project used python script, Pandas library, Jupyter Notebook and matplotlib
 
 # Results
 
-# Summary 
-[Pyber_Summary_Table](https://user-images.githubusercontent.com/80140082/115128060-00a74000-9f90-11eb-81d8-77de48034eb1.png)
+
 
 ![Challenge_Total_Fare_City_Type](https://user-images.githubusercontent.com/80140082/115127911-ffc1de80-9f8e-11eb-87ef-b3b68f36f861.png)
