@@ -13,7 +13,7 @@ The table of ride-hailing data by city type shown below summarizes the average f
 
 ![image](https://user-images.githubusercontent.com/80140082/115128328-e1a9ad80-9f91-11eb-87d0-fe078c97291f.png)
 
-The chart shown below compares the total fares by city types. 
+**The chart shown below compares the total fares by city types. 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/80140082/115128472-d2772f80-9f92-11eb-905c-8bba061dbcb1.png)
 
