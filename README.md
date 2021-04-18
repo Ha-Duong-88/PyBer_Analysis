@@ -37,11 +37,10 @@ The dataset used this analysis was limited to cities in the three in-scope city 
 
 # Recommendations
 
-1. Expand the dataset and perform additional analyis on other factors such as traffic and weather conditions, time of day, travel distance, availability of drivers    by city types, seasonability, etc. to further enrich the analysis and expand the dimensionality to determine the relationships and impacts.
+1. Expand the dataset and perform additional analyis on other factors such as traffic and weather conditions, time of day, travel distance, availability of drivers by city types, seasonability, etc. to further enrich the analysis and expand the dimensionality to determine the relationships and impacts.
 
 2. In conjuntion with the above additional analysis, conduct small pilots or experiments to test some hypotheses on factors that might affect ridership. For         example:
-        * Increasing the number drivers in the rural and suburban areas to determine if increasing the number of available drivers would improve the total 
-          number of rides and fares. 
-        * Adjusting the frequency or availability of drivers in rural and suburban ciies to determine if it will affect the number of rides. 
+        * Adjust the number and frequency or availability of drivers in rural and suburban ciies to determine if it will increase the total number of rides.
         * Look at seasonability and staff drivers accordingly. 
 
+3.  Increase the number drivers in the rural and suburban areas to address the disparity in coverage, particularly in the rural areas. The outcome of the analysis in the above recommendation can help to determine the number of additional drivers to add to the rural and suburban cities.
