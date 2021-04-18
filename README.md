@@ -13,15 +13,17 @@ The table of ride-hailing data by city type shown below summarizes the average f
 
 ![image](https://user-images.githubusercontent.com/80140082/115128328-e1a9ad80-9f91-11eb-87d0-fe078c97291f.png)
 
-**The chart shown below compares the total fares by city types. 
+*The chart shown below compares the total fares by city types. 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/80140082/115128472-d2772f80-9f92-11eb-905c-8bba061dbcb1.png)
 
+*February contributed to the largest amount of overall fares collected across all city types.
+*February was the peak month.
 
 # Summary
 Overall, Urban cities have a higher number of rides and drivers. However, the average fare per ride and average fare per driver are lower than the suburban and rural city types. Rural cities have fewer rides and drivers in comparison to urban and suburban cities. However, they generate higher average fare per ride and average fare per driver over rural and suburban city types. 
 
-**Summary Statistics**
+## Summary Statistics**
 * Rural cities account for 5% of total rides, 3% of total drivers and 7% of total fares.
 * Suburban cities account for 26% of total rides, 16% of total drivers and 30% of total fares.
 * Urban cities account for 68% of total rides, 81% of total drivers and 63% of total fares.
@@ -35,11 +37,11 @@ The dataset used this analysis was limited to cities in the three in-scope city 
 
 # Recommendations
 
-1. Expand the data and perform additional analyis on other factors such as traffic and weather conditions, time of day, travel distance, availability of drivers    by city types etc. to further enrich the analysis and add more dimensionality to determine the relationships and impacts.
+1. Expand the dataset and perform additional analyis on other factors such as traffic and weather conditions, time of day, travel distance, availability of drivers    by city types, seasonability, etc. to further enrich the analysis and expand the dimensionality to determine the relationships and impacts.
 
 2. In conjuntion with the above additional analysis, conduct small pilots or experiments to test some hypotheses on factors that might affect ridership. For         example:
         * Increasing the number drivers in the rural and suburban areas to determine if increasing the number of available drivers would improve the total 
           number of rides and fares. 
         * Adjusting the frequency or availability of drivers in rural and suburban ciies to determine if it will affect the number of rides. 
-     
+        * Look at seasonability and staff drivers accordingly. 
 
