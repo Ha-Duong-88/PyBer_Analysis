@@ -23,7 +23,7 @@ The table of ride-hailing data by city type shown below summarizes the average f
 # Summary
 Overall, Urban cities have a higher number of rides and drivers. However, the average fare per ride and average fare per driver are lower than the suburban and rural city types. Rural cities have fewer rides and drivers in comparison to urban and suburban cities. However, they generate higher average fare per ride and average fare per driver over rural and suburban city types. 
 
-## Summary Statistics**
+### Summary Statistics
 * Rural cities account for 5% of total rides, 3% of total drivers and 7% of total fares.
 * Suburban cities account for 26% of total rides, 16% of total drivers and 30% of total fares.
 * Urban cities account for 68% of total rides, 81% of total drivers and 63% of total fares.
