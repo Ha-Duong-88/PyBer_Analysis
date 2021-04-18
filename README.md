@@ -17,8 +17,9 @@ The table of ride-hailing data by city type shown below summarizes the average f
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/80140082/115128472-d2772f80-9f92-11eb-905c-8bba061dbcb1.png)
 
-*February contributed to the largest amount of overall fares collected across all city types.
 *February was the peak month.
+*February contributed to the largest amount of overall fares collected across all city types.
+
 
 # Summary
 Overall, Urban cities have a higher number of rides and drivers. However, the average fare per ride and average fare per driver are lower than the suburban and rural city types. Rural cities have fewer rides and drivers in comparison to urban and suburban cities. However, they generate higher average fare per ride and average fare per driver over rural and suburban city types. 
