@@ -1,7 +1,7 @@
 # PyBer Analysis Report
 
 ## Project Overview and Objective
-The objective of this analysis project is to analyze the Pyber ride-hailing company to identify opportunities to optimize access to their ride-hailing services for various types of cities. Pyber provides services to three types of cities:  urban, suburban, and rural neigbhorhoods. The project scope involved performing statistical analysis of several large files containing city and ridership data and creating several types of visualizations to create a compelling story about the data and provide recommendations.
+The objective of this analysis project is to analyze the Pyber ride-sharing company to identify opportunities to optimize access to their ride-sharing services for various types of cities. Pyber provides services to three types of cities:  urban, suburban, and rural neigbhorhoods. The project scope involved performing statistical analysis of several large files containing city and ridership data and creating several types of visualizations to create a compelling story about the data and provide recommendations.
 
 The analysis examined the relationship of cities and number of drivers and riders, as well as revenue per driver and rides by city type, the mean and median total fares, drivers and riders by type of city. The combined data analysis and visualization can be utilized by the Pyber CEO to identify oppotunities and strategies to improve access to ride sharing services and determine ride fare afforability for underserved neighborhoods.
 
@@ -21,15 +21,19 @@ The chart shown below compares the total fares by city types.
 # Summary
 Overall, Urban cities have a higher number of rides and drivers. However, the average fare per ride and average fare per driver are lower than the suburban and rural city types. Rural cities have fewer rides and drivers in comparison to urban and suburban cities. However, they generate higher average fare per ride and average fare per driver over rural and suburban city types. 
 
-This analysis did not examine and compare any data about the distances in the rides by city type. One hypotheisis for the rural cities having higher average fares per ride and per driver is the linkage to travel link. The result could be correlated to the travel distance per ride for rural cities relative to urban rides. Further analysis would be needed to validate this observation.
+This analysis did not examine and compare any data about travel distances in the rides by city type. One hypotheisis for rural cities having higher average fares per ride and per driver might be correlated to travel distance. Typically, urban trips are more frequent due to population density and siz shorter in travel distance. However, additional inspection and data gathering would be needed to validate the hypothesis.
+
+The dataset used this analysis was limited to cities in the three in-scope city types (urban, suburban, rural), the number of drivers and riders, and fare information by city type. Therefore, the analysis did not explore other dimensions and factors, such as rider preferences, travel distance, traffic and weather conditions that might impact the number of rides, etc.
+
 
 # Recommendations
 
-1. Perform additional analyis on the distance covered per ride per city type
- give another dimension to the analysis and clarify even more the differences between city types.
+1. Expand the data and perform additional analyis on other factors such as traffic and weather conditions, time of day, travel distance, availability of drivers    by city types etc. to further enrich the analysis and add more dimensionality to determine the relationships and impacts.
 
-2. Perform additional analysis on other data points that might have a causal relationship or correlation to the total number of rides and average fare per ride and per driver, such as weather condition and time of day.
-
-3. Conduct an experiment to increase the number of drivers in the suburban and rural areas
+2. In conjuntion with the above additional analysis, conduct small pilots or experiments to test some hypotheses on factors that might affect ridership. For example:
+        * Increasing the number drivers in the suburban and rural areas to determine if increasing the number of available drivers might improve the total 
+          number of rides and fares.
+        * Adjusting the frequency or availability of drivers in rural and suburban ciies to determine if it will affect the number of rides. 
+     
 
 
