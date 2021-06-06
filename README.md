@@ -29,7 +29,7 @@ Overall, Urban cities have a higher number of rides and drivers. However, the av
 * Suburban cities account for 26% of total rides, 16% of total drivers and 30% of total fares.
 * Urban cities account for 68% of total rides, 81% of total drivers and 63% of total fares.
 
-Based on these statistics, urban cities are under-served in the number of drivers in comparison to suburban and urban cities. There might be an opportunity to increase driver coverage in to rural cities and suburban cities. Given that urban and suburban rides earn higher average fare per ride, increasing the number of drivers in those neighborhoods could also increase the total rides and total fares, and ultimately, revenue.
+Based on these statistics, rural cities are under-served in the number of drivers in comparison to suburban and urban cities. There might be an opportunity to increase driver coverage in to rural cities and suburban cities. Given that urban and suburban rides earn higher average fare per ride, increasing the number of drivers in those neighborhoods could also increase the total rides and total fares, and ultimately, revenue.
 
 This analysis did not examine and compare any data about travel distances in the rides by city type. One hypotheisis for rural cities having higher average fares per ride and per driver might be correlated to travel distance. Typically, urban trips are more frequent due to population density and shorter in travel distance which results in more rides but lower average fare per ride. However, additional inspection and data gathering would be needed to validate the hypothesis.
 
